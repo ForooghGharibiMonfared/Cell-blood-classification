@@ -27,7 +27,7 @@
 ### Future Improvements: 
 A roadmap for dataset expansion, fine-tuning, and integration of explainable AI techniques.
 ## Tools & Techniques
-<li>## Frameworks: TensorFlow, Keras </li>
+<li> ## Frameworks: TensorFlow, Keras </li>
  
 <li> ### Libraries: NumPy, Matplotlib, Scikit-learn </li>
 <li> ### Techniques: Transfer learning, data augmentation, confusion matrix analysis, classification reporting</li>
