@@ -38,16 +38,11 @@ A roadmap for dataset expansion, fine-tuning, and integration of explainable AI 
 ### Enhancing Model Performance:
 <li>Fine-tune the MobileNetV2 model for improved accuracy.</li>
 <li>Train the model for additional epochs to strengthen generalization.</li>
+
 ### Dataset Expansion:
 <li> Increase dataset diversity with additional labeled blood cell images.</li>
 <li>Incorporate more robust preprocessing techniques to reduce noise and improve data quality.</li>
+
 ## Explainability and Clinical Application:
 <li>Integrate explainable AI methods to make predictions interpretable for medical professionals.</li>
 <li>Develop a fully automated diagnostic pipeline for real-world deployment.</li>
-
-
-
-
-
-
-You’ve hit the Free plan limit f
